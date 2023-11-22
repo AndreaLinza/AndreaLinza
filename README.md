@@ -3,7 +3,7 @@
 ###
 
 <img align="left" height="190" src="https://images.pexels.com/photos/1480691/pexels-photo-1480691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
-<img src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
 
 ###
 
