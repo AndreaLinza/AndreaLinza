@@ -2,20 +2,20 @@
 
 ###
 
-<img align="left" height="100" src="https://images.pexels.com/photos/1480691/pexels-photo-1480691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+<img align="left" height="200" src="https://images.pexels.com/photos/1480691/pexels-photo-1480691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 
 ###
 
-<img align="top-right" src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaLinza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLinza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaLinza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLinza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
 
 ###
 
