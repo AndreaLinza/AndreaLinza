@@ -2,8 +2,11 @@
 
 ###
 
-<img align="left" height="190" src="https://images.pexels.com/photos/1480691/pexels-photo-1480691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
-<img align="right" src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
+<img align="left" height="200" src="https://images.pexels.com/photos/1480691/pexels-photo-1480691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -15,6 +18,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
