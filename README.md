@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
+<img align="top-right" src="https://raw.githubusercontent.com/AndreaLinza/AndreaLinza/output/snake.svg" alt="Snake animation" />
 
 ###
 
