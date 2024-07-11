@@ -20,7 +20,9 @@
 ###
 
 <br clear="both">
-
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,npm,vite,postman,idea,java&perline=8" />
+  </a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
