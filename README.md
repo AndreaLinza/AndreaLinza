@@ -21,6 +21,8 @@
 
 <br clear="both">
 <a href="https://skillicons.dev" align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,sass,mysql,php,laravel,vite" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,bootstrap,npm,postman" />
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,npm,vite,postman" />
   </a>
 
