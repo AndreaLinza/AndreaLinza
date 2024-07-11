@@ -20,7 +20,7 @@
 ###
 
 <br clear="both">
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" align="left">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,nodejs,bootstrap,vue,sass,mysql,php,laravel,npm,vite,postman" />
   </a>
 
